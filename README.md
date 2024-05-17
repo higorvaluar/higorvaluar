@@ -1,6 +1,6 @@
 # Prazer, Higor Valuar 🤝
 
-22 anos, Palmas - Tocantins, Brasil. Estudante de Sistemas de Informação na UNITINS em busca de estágio.
+22 anos, Palmas - Tocantins, Brasil. Estudante de **Sistemas de Informação** na **UNITINS** em busca de estágio.
 
 ## Sobre mim
 
