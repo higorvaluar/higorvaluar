@@ -23,12 +23,14 @@ Estudante de **Sistemas de Informação** na **UNITINS** em busca de estágio.
     <img align = "center" alt = "js" src = "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
     <img align = "center" alt = "python" src = "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
     <img align = "center" alt = "java" src = "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+    <img align = "center" alt = "git" src = "https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+    <img align = "center" alt = "github" src = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">    
 </div>
 
 ## Contato
 
-- 📧 [higorvb2001@gmail.com](mailto:higorvb2001@gmail.com)
-- 💼 [linkedin.com/in/higorvb](https://www.linkedin.com/in/higorvb/)
+- 📧 [Email](mailto:higorvb2001@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/higorvb/)
 - 📸 [@higorvaluar_](https://www.instagram.com/higorvaluar_) (perfil pessoal)
 - 🌌 [@astrointeresse](https://www.instagram.com/astrointeresse/) (astronomia)
 
