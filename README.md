@@ -1,10 +1,9 @@
 # Prazer, Higor Valuar 🤝
 
-22 anos, Palmas - Tocantins, Brasil. Estudante de **Sistemas de Informação** na **UNITINS** em busca de estágio.
+Estudante de **Sistemas de Informação** na **UNITINS** em busca de estágio.
 
 ## Sobre mim
 
-- 🎓 Estudante de **Sistemas de Informação** na **UNITINS**.
 - 🌐 Aprendendo **Java POO** e **JavaScript**, no SENAC.
 - 💼 Desenvolvendo projeto em equipe da matéria de **Dev. Front-End** para o Centro de Controle de Zoonoses (CCZ).
 - 🎯 Objetivo de carreira: **Desenvolvedor Back-End**.
