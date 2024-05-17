@@ -4,7 +4,7 @@ Estudante de **Sistemas de Informação** na **UNITINS** em busca de estágio.
 
 ## Sobre mim
 
-- 🌐 Aprendendo **Java POO** e **JavaScript**, no SENAC.
+- 🌐 Estudando **Java POO** no SENAC e **JavaScript** no cursoemvideo.com. 
 - 💼 Desenvolvendo projeto em equipe da matéria de **Dev. Front-End** para o Centro de Controle de Zoonoses (CCZ).
 - 🎯 Objetivo de carreira: **Desenvolvedor Back-End**.
 
