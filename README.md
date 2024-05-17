@@ -5,8 +5,7 @@
 ## Sobre mim
 
 - 🎓 Estudante de **Sistemas de Informação** na **UNITINS**.
-- 💻 Experiência em **JavaScript**, **Java**, **Python**, **HTML** e **CSS**.
-- 🌐 Aprendendo **Java POO** e **JavaScript**.
+- 🌐 Aprendendo **Java POO** e **JavaScript**, no SENAC.
 - 💼 Desenvolvendo projeto em equipe da matéria de **Dev. Front-End** para o Centro de Controle de Zoonoses (CCZ).
 - 🎯 Objetivo de carreira: **Desenvolvedor Back-End**.
 
