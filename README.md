@@ -24,7 +24,9 @@ Estudante de **Sistemas de Informação** na **UNITINS** em busca de estágio.
     <img align = "center" alt = "python" src = "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
     <img align = "center" alt = "java" src = "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
     <img align = "center" alt = "git" src = "https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
-    <img align = "center" alt = "github" src = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">    
+    <img align = "center" alt = "github" src = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">  
+    <img align = "center" alt = "intellij" src = "https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
+    <img align = "center" alt = "vscode" src = "https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
 </div>
 
 ## Contato
