@@ -4,13 +4,12 @@ Estudante de **Sistemas de Informação** na **UNITINS** em busca de estágio.
 
 ## Sobre mim
 
-- 🌐 Estudando **Banco de Dados** no SENAC e **JavaScript** no Curso em Vídeo.
-- 💼 Desenvolvendo projeto em equipe da matéria de **Dev. Front-End** para o Centro de Controle de Zoonoses (CCZ).
-- 🎯 Objetivo de carreira: **Desenvolvedor Back-End**.
+Sou um estudante apaixonado por **desenvolvimento**. Participei de um projeto em equipe criando um **Music Player com JavaFX e MySQL**, e também colaborei no desenvolvimento de soluções para o **Centro de Controle de Zoonoses (CCZ)** na matéria de **Desenvolvimento Front-End**. Meu objetivo é me especializar como **Desenvolvedor Back-End**, focando em criar soluções robustas e eficientes.
 
-## Projetos
+## Projetos Feitos
 
 - 📁 **Projeto CCZ**: Site funcional do zero para o CCZ.
+- 📁 **Projeto Integrador - SENAC**: Criamos um music player funcional, usando JavaFX e MySQL.
 
 ##
 ![Higor Valuar GitHub stats](https://github-readme-stats.vercel.app/api?username=higorvaluar&show_icons=true&theme=white&bg_color=030527&locale=pt-br&title_color=fff&text_color=F5FF8E&hide_border=true&border_radius=15&ring_color=F00000)
