@@ -21,8 +21,11 @@ Sou um estudante apaixonado por **desenvolvimento**. Participei de um projeto em
     <img align = "center" alt = "css" src = "https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
     <img align = "center" alt = "js" src = "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
     <img align = "center" alt = "java" src = "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+    <img align = "center" alt = "javafx" src = "https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white">
     <img align = "center" alt = "python" src = "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+    <img align = "center" alt = "django" src = "https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white">
     <img align = "center" alt = "mysql" src = "https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+    <img align = "center" alt = "mssqlserver" src = "https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
     <img align = "center" alt = "git" src = "https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
     <img align = "center" alt = "github" src = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">  
 </div>
