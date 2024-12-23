@@ -1,6 +1,6 @@
 # Prazer, Higor Valuar 🤝
 
-Estudante de **Sistemas de Informação** na **UNITINS** em busca de estágio.
+Estudante de **Sistemas de Informação** na **UNITINS**.
 
 ## Sobre mim
 
