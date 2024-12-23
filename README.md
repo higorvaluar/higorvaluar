@@ -1,21 +1,21 @@
-# Prazer, Higor Valuar 🤝
+# Pleasure, Higor Valuar 🤝
 
-Estudante de **Sistemas de Informação** na **UNITINS**.
+**Information Systems** student at **UNITINS**.
 
-## Sobre mim
+## About me
 
-Sou um estudante apaixonado por **desenvolvimento**. Participei de um projeto em equipe criando um **Music Player** com **JavaFX** e **MySQL**, onde também aprendi **Java POO**. Além disso, colaborei no desenvolvimento de soluções para o Centro de Controle de Zoonoses (CCZ) na matéria de **Desenvolvimento Front-End**. Meu objetivo é me especializar como **Desenvolvedor Back-End**, focando em criar soluções robustas e eficientes.
+I am a student passionate about **development**. I participated in a team project creating a **Music Player** with **JavaFX** and **MySQL**, where I also learned **Java OOP**. Additionally, I contributed to the development of solutions for the Zoonoses Control Center (CCZ) in the **Front-End Development** subject. My goal is to specialize as a **Back-End Developer**, focusing on creating robust and efficient solutions.
 
-## Projetos Feitos
+## Projects completed
 
-- 📁 **Projeto CCZ**: Site funcional do zero para o CCZ.
-- 📁 **Projeto Integrador - SENAC**: Criamos um music player funcional, usando JavaFX e MySQL.
+- 📁 **CCZ Project**: A fully functional website from scratch for the CCZ.
+- 📁 **Integrator Project - SENAC**: We created a functional music player using JavaFX and MySQL.
 
 ##
 ![Higor Valuar GitHub stats](https://github-readme-stats.vercel.app/api?username=higorvaluar&show_icons=true&theme=white&bg_color=030527&locale=pt-br&title_color=fff&text_color=F5FF8E&hide_border=true&border_radius=15&ring_color=F00000)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=higorvaluar&bg_color=030527&locale=pt-br&title_color=fff&text_color=F5FF8E&hide_border=true&border_radius=15)](https://github.com/higorvaluar/github-readme-stats)
 
-## Tecnologias
+## Technologies
 <div style = "display: inline_block"></br>
     <img align = "center" alt = "html5" src = "https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
     <img align = "center" alt = "css" src = "https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
@@ -30,11 +30,11 @@ Sou um estudante apaixonado por **desenvolvimento**. Participei de um projeto em
     <img align = "center" alt = "github" src = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">  
 </div>
 
-## Contato
+## Contact
 
 - 📧 [Email](mailto:higorvb2001@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/higorvb/)
-- 📸 [@higorvaluar_](https://www.instagram.com/higorvaluar_) (perfil pessoal)
-- 🌌 [@astrointeresse](https://www.instagram.com/astrointeresse/) (astronomia)
+- 📸 [@higorvaluar_](https://www.instagram.com/higorvaluar_) (personal profile)
+- 🌌 [@astrointeresse](https://www.instagram.com/astrointeresse/) (astronomy)
 
-Ansioso para conectar e explorar oportunidades de estágio!
+Excited to connect and explore opportunities!
