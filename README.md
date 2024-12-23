@@ -12,8 +12,8 @@ I am a student passionate about **development**. I participated in a team projec
 - 📁 **Integrator Project - SENAC**: We created a functional music player using JavaFX and MySQL.
 
 ##
-![Higor Valuar GitHub stats](https://github-readme-stats.vercel.app/api?username=higorvaluar&show_icons=true&theme=white&bg_color=030527&locale=pt-br&title_color=fff&text_color=F5FF8E&hide_border=true&border_radius=15&ring_color=F00000)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=higorvaluar&bg_color=030527&locale=pt-br&title_color=fff&text_color=F5FF8E&hide_border=true&border_radius=15)](https://github.com/higorvaluar/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=higorvaluar&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=higorvaluar&hide_progress=false&icons=true&theme=dark)
 
 ## Technologies
 <div style = "display: inline_block"></br>
