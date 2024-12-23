@@ -4,7 +4,7 @@ Estudante de **Sistemas de Informação** na **UNITINS** em busca de estágio.
 
 ## Sobre mim
 
-Sou um estudante apaixonado por **desenvolvimento**. Participei de um projeto em equipe criando um **Music Player** com **JavaFX** e **MySQL**, onde também aprendi **Java POO**. Além disso, colaborei no desenvolvimento de soluções para o Centro de Controle de Zoonoses (CCZ) na matéria de **Desenvolvimento Front-End**. Atualmente, estou fazendo o curso de **"Instalar e Configurar componentes de Hardware"** no **Senac**. Meu objetivo é me especializar como **Desenvolvedor Back-End**, focando em criar soluções robustas e eficientes.
+Sou um estudante apaixonado por **desenvolvimento**. Participei de um projeto em equipe criando um **Music Player** com **JavaFX** e **MySQL**, onde também aprendi **Java POO**. Além disso, colaborei no desenvolvimento de soluções para o Centro de Controle de Zoonoses (CCZ) na matéria de **Desenvolvimento Front-End**. Meu objetivo é me especializar como **Desenvolvedor Back-End**, focando em criar soluções robustas e eficientes.
 
 ## Projetos Feitos
 
