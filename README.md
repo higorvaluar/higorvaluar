@@ -4,12 +4,16 @@
 
 ## About me
 
-I am a student passionate about **development**. I participated in a team project creating a **Music Player** with **JavaFX** and **MySQL**, where I also learned **Java OOP**. Additionally, I contributed to the development of solutions for the Zoonoses Control Center (CCZ) in the **Front-End Development** subject. My goal is to specialize as a **Back-End Developer**, focusing on creating robust and efficient solutions.
+I am a **Systems Information student** focused on **Back-End Development**. I have experience with **Java (Spring Boot, Quarkus)**, **SQL (MySQL, PostgreSQL, SQL Server)**, **Hibernate**, and **Docker**, focusing on building **scalable and efficient back-end solutions**. Currently, I am developing an **e-commerce for privacy-focused DIY kits** and working on a **smart scale with RFID for livestock monitoring**, integrating **IoT** with **Spring Boot**. My goal is to specialize in **back-end technologies**, continuously improving my skills in **modern development stacks**.
 
-## Projects completed
+## Completed and Ongoing Projects
 
-- 📁 **CCZ Project**: A fully functional website from scratch for the CCZ.
-- 📁 **Integrator Project - SENAC**: We created a functional music player using JavaFX and MySQL.
+- 📁 **CCZ Project**: A fully functional website built from scratch for the **Zoonoses Control Center (CCZ)**, developed during the **Front-End Development** course.
+- 📁 **Integrator Project - SENAC**: Developed a functional **music player** using **JavaFX** and **MySQL**, as part of the **Systems Programmer** course at **SENAC**.
+- 📁 **Hackathon - UNITINS**: Developed a **website about contraceptive methods** in under 24 hours as part of a **University Hackathon**, using **HTML, CSS**, and **JavaScript**.
+- 📁 **HTML Analyzer**: A **Java** project to **analyze** the HTML structure of web pages, extracting deep textual content, with support for malformed HTML and connection errors, without external dependencies.
+- 📁 **Smart Scale with RFID - Agrotins 2025**: Team project developing a **smart scale with RFID** for livestock monitoring, using **Spring Boot**, **IoT**, and **weight sensors** for the **Agrotins 2025** event.
+- 📁 **Privacy DIY Kits E-commerce**: An individual project for an e-commerce platform focused on **DIY kits** for building home privacy servers, using **Java**, **PostgreSQL**, **Hibernate**, **Docker**, and **Quarkus**.
 
 ##
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=higorvaluar&show_icons=true&theme=dark)
