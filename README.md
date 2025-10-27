@@ -33,7 +33,7 @@ Nos meus estudos e experiências, pude desenvolver conhecimentos técnicos como:
 - **Desenvolvimento Front-end/Mobile:** Noções de front-end web (HTML, CSS, JavaScript) para integrar com o back-end, e desenvolvimento de interfaces móveis multiplataforma com **Flutter/Dart**.
 ## Projetos concluídos e em andamento
 
-- 📁 **Modernização de Sistemas - Hemocentro Coordenador de Palmas**
+- 📁 **Modernização de Sistemas - Hemocentro Coordenador de Palmas**&nbsp;<br>
     Refatoração e atualização de sistemas legados em **Django 1.7** para **Django 4 + Jazzmin**, integrando com **SQL Server 2012**, mantendo compatibilidade com sistemas existentes e realizando ajustes em views, templates e ORM.
     
 - 📁  [BioCycle – Hackathon InovaUni 2025](https://github.com/HugoValuar03/Hackathon_hackagua)   
