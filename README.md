@@ -58,22 +58,25 @@ Nos meus estudos e experiências, pude desenvolver conhecimentos técnicos como:
 ## Tecnologias:
 <div style = "display: inline_block"></br>
     <img align = "center" alt = "java" src = "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-        <img align = "center" alt = "quarkus" src = "https://img.shields.io/badge/quarkus-%234794EB.svg?style=for-the-badge&logo=quarkus&logoColor=white">
-    <img align = "center" alt = "springboot" src = "https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
-    <img align = "center" alt = "hibernate" src = "https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white">
+<img align = "center" alt = "quarkus" src = "https://img.shields.io/badge/quarkus-%234794EB.svg?style=for-the-badge&logo=quarkus&logoColor=white">
+<img align = "center" alt = "springboot" src = "https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
+<img align = "center" alt = "hibernate" src = "https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white">
     <div style = "display: inline_block"></br>
-        <img align = "center" alt = "python" src = "https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+<img align = "center" alt = "python" src = "https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
 <img align = "center" alt = "django" src = "https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white">
     <div style = "display: inline_block"></br>
-    <img align = "center" alt = "dart" src = "https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white">  
+<img align = "center" alt = "dart" src = "https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white">  
 <img align = "center" alt = "flutter" src = "https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white"> 
     <div style = "display: inline_block"></br>
-    <img align = "center" alt = "mysql" src = "https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-    <img align = "center" alt = "postgres" src = "https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
-    <img align = "center" alt = "mssqlserver" src = "https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
-    <img align = "center" alt = "docker" src = "https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
-    <img align = "center" alt = "git" src = "https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
-    <img align = "center" alt = "github" src = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">  
+<img align = "center" alt = "mysql" src = "https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+<img align = "center" alt = "postgres" src = "https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
+<img align = "center" alt = "mssqlserver" src = "https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
+<img align = "center" alt = "docker" src = "https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
+<img align = "center" alt = "git" src = "https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+<img align = "center" alt = "github" src = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+    <div style = "display: inline_block"></br>
+<img align = "center" alt = "linux" src = "https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+<img align = "center" alt = "ubuntu" src = "https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
 
 ---
 
