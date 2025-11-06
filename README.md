@@ -4,7 +4,7 @@
 🎓 Estudante de **Sistemas de Informação** na **UNITINS**&nbsp;<br>
 ☕ **Java & Quarkus Enthusiast** – Entusiasta de Java, utilizando o framework **Quarkus** para desenvolvimento.&nbsp;<br>
 📱 **Flutter/Dart** – Experiência em desenvolvimento mobile utilizando **Dart** (Flutter) como tecnologia secundária.&nbsp;<br>
-🚀 **Evolução Constante** – Sempre aprendendo e buscando evoluir, em transição de carreira de nível **Júnior** para **Pleno**.
+🚀 **Evolução Constante** – Sempre aprendendo e buscando evoluir.
 
 
 ---
