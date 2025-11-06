@@ -33,13 +33,13 @@ Nos meus estudos e experiências, pude desenvolver conhecimentos técnicos como:
 - **Desenvolvimento Front-end/Mobile:** Noções de front-end web (HTML, CSS, JavaScript) para integrar com o back-end, e desenvolvimento de interfaces móveis multiplataforma com **Flutter/Dart**.
 ## Projetos concluídos e em andamento
 
-- 📁 **Modernização de Sistemas - Hemocentro Coordenador de Palmas**&nbsp;<br>
+- 📁 [Modernização de Sistemas - Hemocentro Coordenador de Palmas](https://github.com/higorvaluar/hemocentro-modernizacao-admin.git)<br>
     Refatoração e atualização de sistemas legados em **Django 1.7** para **Django 4 + Jazzmin**, integrando com **SQL Server 2012**, mantendo compatibilidade com sistemas existentes e realizando ajustes em views, templates e ORM.
     
 - 📁  [BioCycle – Hackathon InovaUni 2025](https://github.com/HugoValuar03/Hackathon_hackagua)   
     Aplicativo mobile multiplataforma desenvolvido em **Flutter + SQLite** para gerenciamento de compostagem doméstica. MVP funcional entregue em 48h com foco em educação ambiental e rastreio de resíduos orgânicos.
     
-- 📁 **Balança Inteligente com RFID – Agrotins 2025**  
+- 📁 [Balança Inteligente com RFID – Agrotins 2025](https://github.com/higorvaluar/balanca-inteligente-api.git)  
     Projeto IoT para monitoramento de gado com **Arduino Mega**, **ESP8266**, sensores **HX711** e leitura por **PN5180 (RFID)**. Backend desenvolvido em **Java**, com persistência e tratamento de dados em tempo real.
     
 - 📁 [E-commerce DIY Kits de Privacidade](https://github.com/higorvaluar/ecommerce-backend)  
