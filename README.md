@@ -10,9 +10,9 @@ Desenvolvedor com foco em **back-end** e experiência prática em **APIs REST**,
 
 ## 🔧 Stack principal
 
-- **Back-end:** Java (8+/21), **Quarkus**, JPA/Hibernate, REST APIs, OpenAPI/Swagger, JWT
-- **Dados:** **PostgreSQL**, **SQL Server**, MySQL (modelagem relacional, queries, otimização)
-- **Dev/Infra:** **Docker**, Linux (Ubuntu), Git
+- **Back-end:** Java (8+/21), Quarkus, JPA/Hibernate, REST APIs, OpenAPI/Swagger, JWT
+- **Dados:** PostgreSQL, SQL Server, MySQL (modelagem relacional, queries, otimização)
+- **Dev/Infra:** Docker, Linux (Ubuntu), Git
 - **Também uso:** Python/Django (sustentação/modernização), Angular (front), Flutter (secundário)
 
 ---
