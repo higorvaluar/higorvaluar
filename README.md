@@ -59,13 +59,3 @@ Desenvolvedor com foco em **back-end** e experiência prática em **APIs REST**,
 - GitHub: https://github.com/higorvaluar
 
 ---
-
-## 📊 GitHub Stats (se estiver funcionando)
-<img
-  src="https://github-readme-stats.vercel.app/api?username=higorvaluar&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark&cache_seconds=86400"
-  height="165"
-/>
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=higorvaluar&layout=compact&hide_border=true&theme=github_dark&cache_seconds=86400"
-  height="165"
-/>
