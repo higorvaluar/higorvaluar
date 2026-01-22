@@ -26,7 +26,7 @@ Desenvolvedor com foco em **back-end** e experiência prática em **APIs REST**,
 - Deploy em produção via Docker
 
 🔗 App: https://privakit.onrender.com/  *(em manutenção)*
-🔗 Backend: https://github.com/higorvaluar/ecommerce-backend  
+🔗 Backend: https://github.com/higorvaluar/privakit-api  
 🔗 Frontend: https://github.com/higorvaluar/ecommerce-frontend  
 
 ### 2) Modernização de Sistemas — Hemocentro (Django legado → Django 4)
