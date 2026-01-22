@@ -17,7 +17,7 @@ Desenvolvedor com foco em **back-end** e experiência prática em **APIs REST**,
 
 ---
 
-## 🚀 Projetos em destaque
+## 🚀 Projetos
 
 ### 1) Priv@Kit — E-commerce Full-stack (produção)
 **Java • Quarkus • PostgreSQL • JWT • Docker • OpenAPI/Swagger • Angular**
