@@ -25,7 +25,7 @@ Desenvolvedor com foco em **back-end** e experiência prática em **APIs REST**,
 - Persistência relacional com JPA/Hibernate + DTOs
 - Deploy em produção via Docker
 
-🔗 App: https://privakit.onrender.com/  
+🔗 App: https://privakit.onrender.com/  *(em manutenção)*
 🔗 Backend: https://github.com/higorvaluar/ecommerce-backend  
 🔗 Frontend: https://github.com/higorvaluar/ecommerce-frontend  
 
