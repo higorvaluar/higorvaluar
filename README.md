@@ -1,6 +1,6 @@
 # Higor Valuar 👋
 
-**Software Developer (Back-end / Full-stack)**  
+**Software Developer (Back-end)**  
 **Java (8+/21) • Quarkus • SQL • Docker • Linux**  
 Palmas, TO — Brasil
 
